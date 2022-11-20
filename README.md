@@ -5,7 +5,7 @@ El repositorio actual contiene la Práctica 1 (Web Scraping) de la asignatura Ti
 Los miembros del proyecto son **Ferran Valverde Parera** y **Alejandro González Barberá**.
 ## Contenido del repositorio
 - ./data/*: csv intermedios que contienen las estadísticas de las monedas en cada momento.
-- CoinGecko.csv:
+- CoinGecko.csv: contiene las 100 mejores monedas junto a algunos atributos tomados en el momento de ejecución.
 - Merge_csv.ipynb: notebook para juntar los csv del directorio data/ en uno.
 - coins_dataset.csv: resultado del notebook Merge_csv.ipynb.
 - web-scraping-full.ipynb: notebook que contiene la implementación del web scraping y del guardado de los csv.
