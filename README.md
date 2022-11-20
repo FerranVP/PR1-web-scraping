@@ -18,3 +18,5 @@ El proyecto está construido con Python 3.7.11 con las siguiente librerías:
 - ./source/coins_dataset.csv: resultado del notebook Merge_csv.ipynb.
 - ./source/web-scraping-full.ipynb: notebook que contiene la implementación del web scraping y del guardado de los csv.
 - ./source/web-scraping-test.ipynb: notebook que contiene paso a paso la implmentación del anterior.
+## DOI
+El dataset también se puede encontrar en el siguiente repositorio de [Zenodo](https://doi.org/10.5281/zenodo.7339630)
